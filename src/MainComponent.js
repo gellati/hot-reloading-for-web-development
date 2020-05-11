@@ -6,7 +6,7 @@ class MainComponent extends React.Component {
     return (
       <div>
         <h1>
-          Hot reloadssss
+          Hot reload
         </h1>
       </div>
     )

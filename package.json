@@ -1,8 +1,8 @@
 {
-  "name": "front",
+  "name": "hot-reload",
   "version": "1.0.0",
-  "description": "client for image server",
-  "main": "reduxstagram.js",
+  "description": "Different varieties of hot reloading",
+  "main": "App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev-express": "node expressServer.js",
